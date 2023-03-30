@@ -1,4 +1,6 @@
-
+*********STATE********
+    
+    
 import { useState } from "react";
 
 function Input(){
